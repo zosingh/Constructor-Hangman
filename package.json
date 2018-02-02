@@ -1,0 +1,27 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Constructor Hangman Homework Week 11",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.1",
+    "is-letter": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/zosingh/Constructor-Hangman"
+  },
+  "keywords": [
+    "constructor",
+    "hangman"
+  ],
+  "author": "Andy Sargent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://https://github.com/zosingh/Constructor-Hangman"
+  },
+  "homepage": "https://https://github.com/zosingh/Constructor-Hangman"
+}
